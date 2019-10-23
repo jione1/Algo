@@ -1,4 +1,4 @@
-// 더하기 사이클 
+// 더하기 사이클   
 # include <stdio.h>
 int main(){
     int a, result = 0, cycle = 0, ten, one, temp;
